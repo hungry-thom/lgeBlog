@@ -22,6 +22,7 @@ export async function getSinglePost (postSlug) {
       slug: postSlug
     })
     .catch((err) => {
+      console.log('slug', postSlug, api)
       throw (err)
     })
 }
