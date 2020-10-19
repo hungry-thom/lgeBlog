@@ -1256,10 +1256,10 @@
     mustache "^2.3.0"
     stack-trace "0.0.10"
 
-"@tryghost/content-api@^1.4.5":
-  version "1.4.5"
-  resolved "https://registry.yarnpkg.com/@tryghost/content-api/-/content-api-1.4.5.tgz#f3ed3a769ac10ef65529d53851a87d262f0bb0c7"
-  integrity sha512-MpVwpTIHbFMwRqJIbuZVQusVid1dExH0Bn4/6tkQhNbKxwLQ0nrl+nuYLNgcD5pC1rEYafdeX+3K9V5y/Wqy8A==
+"@tryghost/content-api@^1.4.7":
+  version "1.4.7"
+  resolved "https://registry.yarnpkg.com/@tryghost/content-api/-/content-api-1.4.7.tgz#daf9222a0fbe427ff7a27abf98610f49e7d97c83"
+  integrity sha512-DPSnwZreBqxL4333VXAyVIi9hMcn9P+8mYvm1l39XjRWRVjRwfIARQJVDvC/xRQ5WXJSGKc3ytLf2ZJKs8dzFA==
   dependencies:
     axios "0.20.0"
 
