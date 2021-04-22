@@ -4,6 +4,7 @@
       <Logo />
       <h1 class="title">
         kooxBlog
+        (Let's Go Eat)
       </h1>
       <ul>
         <li v-for="post in posts" :key="post.total">
