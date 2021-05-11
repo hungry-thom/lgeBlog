@@ -1256,12 +1256,12 @@
     mustache "^2.3.0"
     stack-trace "0.0.10"
 
-"@tryghost/content-api@^1.4.5":
-  version "1.4.5"
-  resolved "https://registry.yarnpkg.com/@tryghost/content-api/-/content-api-1.4.5.tgz#f3ed3a769ac10ef65529d53851a87d262f0bb0c7"
-  integrity sha512-MpVwpTIHbFMwRqJIbuZVQusVid1dExH0Bn4/6tkQhNbKxwLQ0nrl+nuYLNgcD5pC1rEYafdeX+3K9V5y/Wqy8A==
+"@tryghost/content-api@^1.5.5":
+  version "1.5.5"
+  resolved "https://registry.yarnpkg.com/@tryghost/content-api/-/content-api-1.5.5.tgz#4c2b9bd44203919bc78ab7ec44356620c10fdb5b"
+  integrity sha512-GPzcFOjzV0+XqfPvB1iHaDauRo+qLAjbfeNf8DLDuzsUm5R51tCiaQIAyOHy51xDBicCxUfhfjBfxT8bIRcpMQ==
   dependencies:
-    axios "0.20.0"
+    axios "^0.21.1"
 
 "@types/anymatch@*":
   version "1.3.1"
@@ -1886,10 +1886,10 @@ available-typed-arrays@^1.0.0, available-typed-arrays@^1.0.2:
   dependencies:
     array-filter "^1.0.0"
 
-axios@0.20.0:
-  version "0.20.0"
-  resolved "https://registry.yarnpkg.com/axios/-/axios-0.20.0.tgz#057ba30f04884694993a8cd07fa394cff11c50bd"
-  integrity sha512-ANA4rr2BDcmmAQLOKft2fufrtuvlqR+cXNNinUmvfeSNCOF98PZL+7M/v1zIdGo7OLjEA9J2gXJL+j4zGsl0bA==
+axios@^0.21.1:
+  version "0.21.1"
+  resolved "https://registry.yarnpkg.com/axios/-/axios-0.21.1.tgz#22563481962f4d6bde9a76d516ef0e5d3c09b2b8"
+  integrity sha512-dKQiRHxGD9PPRIUNIWvZhPTPpl1rf/OxTYKsqKUDjBwYylTvV7SjSHJb9ratfyzM6wCdLCOYLzs73qpg5c4iGA==
   dependencies:
     follow-redirects "^1.10.0"
 
